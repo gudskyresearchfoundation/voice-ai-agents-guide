@@ -52,12 +52,12 @@ This book covers every layer of a modern voice agent: how sound becomes data, ho
 voice-ai-agents-book/
 ├── README.md
 ├── LICENSE
-└── voice-ai-agents.pdf
+└── AZ_Voice_Agent_and_Application.pdf
 ```
 
 ## Reading the Book
 
-Open `voice-ai-agents.pdf` in this repository to read the full book.
+Open `AZ_Voice_Agent_and_Application.pdf` in this repository to read the full book.
 
 ## How to Cite
 
@@ -65,14 +65,6 @@ Open `voice-ai-agents.pdf` in this repository to read the full book.
 Gudsky Research Foundation. Voice AI Agents.
 Gudsky Research Foundation. https://gudsky.org
 ```
-
-## Feedback and Corrections
-
-Found an error or have a suggestion? Please [open an issue](../../issues).
-
-## License
-
-Add your license here (for example, CC BY-NC-ND 4.0).
 
 ## About Gudsky Research Foundation
 
